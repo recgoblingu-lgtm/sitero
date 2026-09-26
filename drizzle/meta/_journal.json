@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790429270575,
+      "tag": "0000_cynical_mercury",
+      "breakpoints": true
+    }
+  ]
 }
